@@ -7,7 +7,7 @@ public class EjercicioFactorial {
 		int resultado = 1;
 		
 		for (int i = 4; i > 0; i--) {
-			resultado = resultado * i;
+			resultado = numero * i;
 			
 			System.out.println(resultado);
 		}
